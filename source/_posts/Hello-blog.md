@@ -6,6 +6,7 @@ categories:
 tags:
 - Tutorial
 mathjax: true
+description: My first blog
 ---
 
 I am Alexander Xu. Welcome to my blog!
